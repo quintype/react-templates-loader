@@ -4,7 +4,7 @@
   "description": "react-templates loader module for webpack",
   "main": "index.js",
   "peerDependencies": {
-    "react-templates": "^0.6.2"
+    "react-templates": "https://github.com/quintype/react-templates"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
